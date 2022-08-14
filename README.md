@@ -4,7 +4,7 @@ My name is <b>Moyosoreoluwa</b>.
 
 # Programming Languages
 - HTML & CSS
-- JS
+- JavaScript
 - Python
 - Kotlin
 

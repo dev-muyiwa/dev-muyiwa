@@ -17,6 +17,7 @@ Check out my following social media pages
 <a href="https://www.linkedin.com/in/odusolamoyosoreoluwa"><img src="https://th.bing.com/th/id/R.c140186c1062a01e143fbc93f81120ee?rik=XVhfvXHYqc9G%2bQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2flinkedIn%2fsmall%2flinkedIn_PNG12.png&ehk=8%2bQF2KAPD5V7fZh1QrOcQYQi9BIi5bBqAXU6ea6WRTg%3d&risl=&pid=ImgRaw&r=0" width="30"></a>
 
 # Welcome to My GitHub Profile!
+
 # About Me
 My name is Moyosoreoluwa Odusola, and I'm an Android Developer who is passionate about creating high-quality, user-friendly mobile applications. I have a years of experience developing Android apps using Kotlin, and I'm always eager to learn and explore new technologies.
 
@@ -42,16 +43,16 @@ Here are some of the skills and technologies that I'm proficient in:
 # My Projects
 Here are a few examples of some of the Android applications I have built:
 
-[Project 1](link to project 1): [Insert brief description of project 1]
-[Project 2](link to project 2): [Insert brief description of project 2]
-[Project 3](link to project 3): [Insert brief description of project 3]
+- [Project 1](link to project 1): [Insert brief description of project 1]
+- [Project 2](link to project 2): [Insert brief description of project 2]
+- [Project 3](link to project 3): [Insert brief description of project 3]
 
 
 # Contributions
 If you find any issues or would like to contribute to any of my projects, feel free to create a pull request or open an issue. I'm always open to collaboration and feedback!
 
 # Contact Me
-If you have any questions or would like to get in touch with me, please feel free to <a href="mailto:muyiwatemilade@gmail.com">send me a mail</a>. You can also find me on <a href="https://twitter.com/dev_muyiwa">Twitter</a>, where I regularly tweet updates and insights about my work.
+<p>If you have any questions or would like to get in touch with me, please feel free to <a href="mailto:muyiwatemilade@gmail.com">send me a mail</a>. You can also find me on <a href="https://twitter.com/muyiwa_tm">Twitter</a>, where I regularly tweet updates and insights about my work.</p>
 
 
 <!---

@@ -1,4 +1,4 @@
-# Who am I?
+<!-- # Who am I?
 I am an application developer with a good knowledge of Android Operating System and building native Android apps with Kotlin. I am also an undergraduate in the Department of Computer Science, University of Ibadan. I am passionate about building products and learning new technologies.<br>
 My name is <b>Moyosoreoluwa</b>.
 
@@ -14,12 +14,12 @@ My name is <b>Moyosoreoluwa</b>.
 Check out my following social media pages
 
 <a href="https://twitter.com/dev_muyiwa"><img src="https://th.bing.com/th/id/R.3f7189662f19f8318fc75252deee723a?rik=Qa956Np1tp8Zcg&riu=http%3a%2f%2f1000logos.net%2fwp-content%2fuploads%2f2017%2f06%2fTwitter-Logo.png&ehk=6ekNd2ZmhpvFDGRZF19QcumP9fb8pZRkwrbFbK%2bpULA%3d&risl=&pid=ImgRaw&r=0" width="30"></a>
-<a href="https://www.linkedin.com/in/odusolamoyosoreoluwa"><img src="https://th.bing.com/th/id/R.c140186c1062a01e143fbc93f81120ee?rik=XVhfvXHYqc9G%2bQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2flinkedIn%2fsmall%2flinkedIn_PNG12.png&ehk=8%2bQF2KAPD5V7fZh1QrOcQYQi9BIi5bBqAXU6ea6WRTg%3d&risl=&pid=ImgRaw&r=0" width="30"></a>
+<a href="https://www.linkedin.com/in/odusolamoyosoreoluwa"><img src="https://th.bing.com/th/id/R.c140186c1062a01e143fbc93f81120ee?rik=XVhfvXHYqc9G%2bQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2flinkedIn%2fsmall%2flinkedIn_PNG12.png&ehk=8%2bQF2KAPD5V7fZh1QrOcQYQi9BIi5bBqAXU6ea6WRTg%3d&risl=&pid=ImgRaw&r=0" width="30"></a> -->
 
 # Welcome to My GitHub Profile!
 
-# About Me
-My name is Moyosoreoluwa Odusola, and I'm an Android Developer who is passionate about creating high-quality, user-friendly mobile applications. I have a years of experience developing Android apps using Kotlin, and I'm always eager to learn and explore new technologies.
+# Who am I?
+My name is Moyosoreoluwa Odusola, and I'm an Android Developer with a good knowledge of Android Operating System and building user-friendly nNtive Android apps with Kotlin. I'm always eager to learn and explore new technologies.
 
 # My Skills
 Here are some of the skills and technologies that I'm proficient in:

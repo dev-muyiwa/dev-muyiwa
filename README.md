@@ -8,7 +8,7 @@ My name is <b>Moyosoreoluwa</b>.
 - Python
 - Kotlin
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dev-muyiwa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dev-muyiwa&theme=dark&currStreakNum=B81DEB&sideNums=EBBC2D&ring=D8EBAA)](https://git.io/streak-stats)
 
 # Social Handles
 Check out my following social media pages

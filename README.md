@@ -8,10 +8,7 @@ My name is <b>Moyosoreoluwa</b>.
 - Python
 - Kotlin
 
-# Design Tools
-- Adobe Photoshop
-- Adobe Illustrator 
-- Adobe XD
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dev-muyiwa)](https://git.io/streak-stats)
 
 # Social Handles
 Check out my following social media pages

@@ -52,7 +52,7 @@ Here are a few examples of some of the Android applications I have built:
 If you find any issues or would like to contribute to any of my projects, feel free to create a pull request or open an issue. I'm always open to collaboration and feedback!
 
 # Contact Me
-<p>If you have any questions or would like to get in touch with me, please feel free to <a href="mailto:muyiwatemilade@gmail.com">send me a mail</a>. You can also find me on <a href="https://twitter.com/muyiwa_tm">Twitter</a>, where I regularly tweet updates and insights about my work.</p>
+<p>If you have any questions or would like to get in touch with me, please feel free to <a href="mailto:muyiwatemilade@gmail.com">send me a mail</a>. You can also find me on <a href="https://twitter.com/muyiwa_tm" target="_blank">Twitter</a>, where I regularly tweet updates and insights about my work.</p>
 
 
 <!---

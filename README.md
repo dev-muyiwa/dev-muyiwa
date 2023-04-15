@@ -36,7 +36,7 @@ Here are some of the skills and technologies that I'm proficient in:
 - Gradle
 - Jira
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-muyiwa)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-muyiwa&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dev-muyiwa&theme=dark&currStreakNum=B81DEB&sideNums=EBBC2D&ring=D8EBAA)](https://git.io/streak-stats)
 

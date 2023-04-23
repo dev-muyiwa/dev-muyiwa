@@ -44,13 +44,13 @@ Here are some of the skills and technologies that I'm proficient in:
 
 
 
-# My Projects
+<!-- # My Projects
 Here are a few examples of some of the Android applications I have built:
 
 - [Project 1](link to project 1): [Insert brief description of project 1]
 - [Project 2](link to project 2): [Insert brief description of project 2]
 - [Project 3](link to project 3): [Insert brief description of project 3]
-
+ -->
 
 # Contributions
 If you find any issues or would like to contribute to any of my projects, feel free to create a pull request or open an issue. I'm always open to collaboration and feedback!

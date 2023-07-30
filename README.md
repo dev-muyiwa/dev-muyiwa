@@ -22,8 +22,8 @@ My technical expertise includes:
 
 
 # Current Projects
-- Chirper RESTful API.
-- Koomia E-Commerce API.
+- Chirper RESTful API using Laravel(PHP) + MySQL.
+- Koomia E-Commerce API using Node.js(Typescript) + MongoDB.
 
 
 

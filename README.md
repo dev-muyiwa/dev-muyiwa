@@ -10,7 +10,7 @@ My technical expertise includes:
 - Testing: PHPUnit, Jest
 - API Development: RESTful APIs
 - Mobile Development: Kotlin
- <!-- Containerization: Docker -->
+- Containerization: Docker, Kafka
 
 
 

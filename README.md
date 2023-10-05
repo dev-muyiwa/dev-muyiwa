@@ -7,7 +7,7 @@ My technical expertise includes:
 - Backend Development: PHP, TypeScript, Laravel, Node.js
 - Databases: MySQL, PostgreSQL, MongoDB
 - Version Control: Git
-- Testing: PHPUnit, Jest
+- Testing Jest
 - API Development: RESTful APIs
 - Mobile Development: Kotlin
 - Containerization: Docker, Kafka

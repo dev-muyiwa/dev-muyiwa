@@ -1,5 +1,5 @@
-# Holla amigos 👋
-My name is Moyosore(M). A dedicated backend developer with a strong foundation in building robust and efficient applications using the Laravel PHP framework and Node.js with TypeScript. Has also explored the exciting world of Android app development with Kotlin.
+# Hi 👋
+My name is Moyo(M). A dedicated backend developer with a strong foundation in building robust and efficient applications using the Laravel PHP framework and Node.js with TypeScript. Has also explored the exciting world of Android app development with Kotlin.
 
 ## Skills
 My technical expertise includes:

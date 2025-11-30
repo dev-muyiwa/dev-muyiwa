@@ -1,6 +1,6 @@
 # Hi there, I'm Moyosoreoluwa (Moyo) 👋
 
-**Backend Engineer** specializing in scalable systems, microservices architecture, and cloud-native applications.
+**Software Engineer** specializing in scalable systems, microservices architecture, and cloud-native applications.
 
 I design and build robust backend infrastructure that powers modern applications. Passionate about clean code, system design, and solving complex technical challenges that matter.
 
@@ -14,7 +14,8 @@ I design and build robust backend infrastructure that powers modern applications
 - TypeScript, Java, Golang
 
 **Frameworks & Libraries**
-- Express.js, NestJS, Spring Boot, Fiber, Gin
+- Backend: Express.js, NestJS, Spring Boot, Fiber, Gin
+- Frontend: React.js, Next.js, TailwindCSS
 
 **Databases & Caching**
 - PostgreSQL, MySQL, MongoDB
